@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/awesooomeME/stats_preview)
+- Live Site URL: [Live site URL here](https://stats-preview-roan.vercel.app/)
 
 ## My process
 
